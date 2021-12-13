@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning HTML, CSS, and javascript
+
+Just a temporaty presentation
 
 <!--
 **LaurentMag/LaurentMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
