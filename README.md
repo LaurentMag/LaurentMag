@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, and javascript
-
+- 🌱 I’m currently learning HTML, CSS.. 
+- 
 Just a temporaty presentation
 
 <!--
