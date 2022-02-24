@@ -1,7 +1,8 @@
-### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS.. 
-- 
-Just a temporaty presentation
+### Hi there, i'am Laurent
+
+Currently learning HTML, CSS, and now javascript
+
+
 
 <!--
 **LaurentMag/LaurentMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
