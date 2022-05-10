@@ -1,8 +1,5 @@
 ### Hi there, i'am Laurent
-## Student in frontend end web developpment
-
-
-Currently learning HTML, CSS, and now Javascript at Simplon.
+## Currently student in designer and app developper(CDA) at m2i
 
 
 
