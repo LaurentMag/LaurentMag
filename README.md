@@ -1,5 +1,5 @@
 ### Hi there, i'am Laurent
-## Currently student in designer and app developper(CDA) at m2i
+## Currently fullStack Developper at XPEHO
 
 
 
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
