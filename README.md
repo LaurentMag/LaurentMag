@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMag&layout=compact&theme=radical)](https://github.com/LaurentMag)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMag&layout=compact&theme=swift)](https://github.com/LaurentMag)
 
-![LaurentMag's Github Stats](https://github-readme-stats.vercel.app/api?username=LaurentMag&show_icons=true&theme=radical)
+![LaurentMag's Github Stats](https://github-readme-stats.vercel.app/api?username=LaurentMag&show_icons=true&theme=swift)
