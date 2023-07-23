@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[test](https://ionicabizau.github.io/github-profile-languages/api.html?LaurentMag)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMag&layout=compact&theme=swift)](https://github.com/LaurentMag)
 
 ![LaurentMag's Github Stats](https://github-readme-stats.vercel.app/api?username=LaurentMag&show_icons=true&theme=swift)
